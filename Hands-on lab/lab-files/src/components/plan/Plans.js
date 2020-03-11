@@ -58,7 +58,7 @@ export default class Plans extends Component {
 
         return (
             <div class="container">
-                <h3>WELCOME JOHAN 2</h3>
+                <h3>WELCOME JOHAN 2 .2 </h3>
                 <Grid>
                     <div class="plans">
                         <Row>{planCatalog}</Row>
